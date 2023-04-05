@@ -6,7 +6,7 @@ Book Link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-
 
 ### Read Online
 
-[Chapter 1: Vector Spaces]( https://texlive2020.latexonline.cc/compile?git=https://github.com/zchengchen/Notes-and-Solutions-to-Linear-Algebra-Done-Right&target=tex/ch1_vector_spaces.tex&command=pdflatex)
+[Chapter 1: Introduction](https://texlive2020.latexonline.cc/compile?git=https://github.com/zchengchen/Implementations-and-Solutions-to-Pattern-Recognition-and-Machine-Learning&target=tex/ch1_introduction.tex&command=pdflatex)
 
 ### Update List
 
