@@ -10,6 +10,6 @@ Book Link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-
 
 ### Update List
 
-#### 2023/4/5
+#### 2023/4/16
 
-Solutions to Chapter 1 updated.
+Solutions to Chapter 1 updated. All planned contents of Chapter 1 have been updated.
